@@ -61,3 +61,13 @@ The dashboard provides a consolidated view of service performance, helping stake
 
 **Project Type:** Data Analytics Portfolio Project  
 **Tool:** Microsoft Power BI
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](Executive-Overview.png)
+
+### Operational Analysis
+![Operational Analysis](Operational-Analysis.png)
+## Project Documentation
+
+[View Project Documentation (PDF)](Service%20Requests%20Performance%20Dashboard.pdf)
